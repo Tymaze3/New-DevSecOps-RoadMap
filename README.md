@@ -1,22 +1,22 @@
-# 🚀 DevSecOps & Cloud Security Engineer Roadmap (AWS Path)
+# 🚀 DevSecOps & Cloud Security Engineer Roadmap (6–8 Month AWS Path)
 
-This repo is a 12-week structured plan to transition from Cybersecurity Analyst to a **DevSecOps or Cloud Security Engineer**. It combines hands-on learning with curated resources across AWS, Linux, Python, Docker, Kubernetes, CI/CD, Infrastructure as Code, Monitoring, and DevSecOps practices.
+This repo is a structured 6–8 month plan to transition from Cybersecurity Analyst to a **DevSecOps or Cloud Security Engineer**. It combines hands-on learning with curated resources across AWS, Linux, Python, Docker, Kubernetes, CI/CD, Infrastructure as Code, Monitoring, and DevSecOps practices.
 
 ---
 
 ## 📚 Table of Contents
-1. [Weeks 1–2: Git, Linux & AWS Core](#week-1-2-git-linux--aws-core)
-2. [Weeks 3–4: Python & Cloud Automation](#week-3-4-python--cloud-automation)
-3. [Weeks 5–6: Infrastructure as Code with Terraform](#week-5-6-infrastructure-as-code-with-terraform)
-4. [Weeks 7–8: Containers & DevSecOps Practices](#week-7-8-containers--devsecops-practices)
-5. [Weeks 9–10: Kubernetes & CI/CD](#week-9-10-kubernetes--cicd)
-6. [Weeks 11–12: Cloud Security & Portfolio](#week-11-12-cloud-security--portfolio)
+1. [Phase 1: Git, Linux & AWS Core (Month 1)](#phase-1-git-linux--aws-core-month-1)
+2. [Phase 2: Python & Cloud Automation (Month 2)](#phase-2-python--cloud-automation-month-2)
+3. [Phase 3: Infrastructure as Code with Terraform (Month 3)](#phase-3-infrastructure-as-code-with-terraform-month-3)
+4. [Phase 4: Containers & DevSecOps Practices (Month 4)](#phase-4-containers--devsecops-practices-month-4)
+5. [Phase 5: Kubernetes & CI/CD Pipelines (Month 5–6)](#phase-5-kubernetes--cicd-pipelines-month-5–6)
+6. [Phase 6: Cloud Security, Monitoring & Final Project (Month 7–8)](#phase-6-cloud-security-monitoring--final-project-month-7–8)
 7. [Bonus: DevSecOps Fundamentals](#bonus-devsecops-fundamentals)
 8. [Certifications & Learning Resources](#certifications--learning-resources)
 
 ---
 
-## 🗓️ Week 1–2: Git, Linux & AWS Core
+## 📅 Phase 1: Git, Linux & AWS Core (Month 1)
 > 🧠 Goal: Master Git, terminal fluency, and AWS basics
 
 - [ ] Learn Git commands: `clone`, `branch`, `merge`, pull requests
@@ -32,7 +32,7 @@ This repo is a 12-week structured plan to transition from Cybersecurity Analyst 
 
 ---
 
-## 🗓️ Week 3–4: Python & Cloud Automation
+## 📅 Phase 2: Python & Cloud Automation (Month 2)
 > 🧠 Goal: Automate infrastructure & AWS using Python
 
 - [ ] Review Python syntax: functions, loops, data structures
@@ -46,7 +46,7 @@ This repo is a 12-week structured plan to transition from Cybersecurity Analyst 
 
 ---
 
-## 🗓️ Week 5–6: Infrastructure as Code with Terraform
+## 📅 Phase 3: Infrastructure as Code with Terraform (Month 3)
 > 🧠 Goal: Use IaC to provision AWS resources securely
 
 - [ ] Install and configure Terraform
@@ -61,7 +61,7 @@ This repo is a 12-week structured plan to transition from Cybersecurity Analyst 
 
 ---
 
-## 🗓️ Week 7–8: Containers & DevSecOps Practices
+## 📅 Phase 4: Containers & DevSecOps Practices (Month 4)
 > 🧠 Goal: Learn Docker and apply security best practices
 
 - [ ] Build Dockerfiles and use Docker Compose
@@ -76,7 +76,7 @@ This repo is a 12-week structured plan to transition from Cybersecurity Analyst 
 
 ---
 
-## 🗓️ Week 9–10: Kubernetes & CI/CD
+## 📅 Phase 5: Kubernetes & CI/CD Pipelines (Month 5–6)
 > 🧠 Goal: Orchestrate containers and implement secure pipelines
 
 - [ ] Learn Kubernetes basics (Pods, Services, Deployments, ConfigMaps, Secrets)
@@ -91,16 +91,18 @@ This repo is a 12-week structured plan to transition from Cybersecurity Analyst 
 
 ---
 
-## 🗓️ Week 11–12: Cloud Security & Portfolio
-> 🧠 Goal: Master AWS security tools and complete end-to-end project
+## 📅 Phase 6: Cloud Security, Monitoring & Final Project (Month 7–8)
+> 🧠 Goal: Master AWS security tools, observability, and complete end-to-end project
 
 - [ ] Use AWS GuardDuty, Security Hub, CloudTrail, KMS
+- [ ] Learn observability tools: Prometheus, Grafana, CloudWatch
 - [ ] Build a "Secure AWS Landing Zone" with Terraform
-- [ ] Full stack: Code → Container → CI/CD → K8s → AWS
+- [ ] Final project: Code → Container → CI/CD → K8s → AWS
 - [ ] Document your build, include architecture diagram in GitHub repo
 
 **Resources:**
 - [AWS Security Hub Docs](https://docs.aws.amazon.com/securityhub/)
+- [Prometheus + Grafana](https://prometheus.io/docs/introduction/overview/)
 - [AWS KMS Overview](https://docs.aws.amazon.com/kms/latest/developerguide/)
 - [Cloud Resume Challenge (DevSecOps Remix)](https://cloudresumechallenge.dev/)
 
